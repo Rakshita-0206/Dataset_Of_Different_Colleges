@@ -1,0 +1,638 @@
+exam_type,year,college_code,college_name,category,branch_code,branch_full_name,closing_rank
+COMEDK,2025,E005,"Akash Institute of Engineering and Technology- Devanahalli, Bengaluru Rural",GM,Bran,Branch_1,84613
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_1,5776
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_1,17172
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",GM,Bran,Branch_1,36348
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",KKR,Bran,Branch_1,63963
+COMEDK,2025,E035,"Channabasaveshwara Institute of Technology- Gubbi, Tumakuru",GM,Bran,Branch_1,106098
+COMEDK,2025,E045,Dr H N National College of Engineering,GM,Bran,Branch_1,92178
+COMEDK,2025,E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bran,Branch_1,58938
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bran,Branch_1,80024
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",KKR,Bran,Branch_1,83910
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,GM,Bran,Branch_1,74720
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,KKR,Bran,Branch_1,97455
+COMEDK,2025,E066,"KLE College of Engineering and Technology-Chikodi Dist., Belagavi",GM,Bran,Branch_1,67808
+COMEDK,2025,E067,"K.S School of Engineering And Management-Off Kanakapura Road, Bengaluru",GM,Bran,Branch_1,100842
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_1,3422
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_1,14044
+COMEDK,2025,E082,"Maharaja Institute of Technology-Thandavapura, Mysuru",GM,Bran,Branch_1,88161
+COMEDK,2025,E108,"SJC Institute of Technology-BB Road, Chikkaballapur",GM,Bran,Branch_1,93830
+COMEDK,2025,E109,"S.E.A. College of Engineering and Technology-K R Puram, Bengaluru",GM,Bran,Branch_1,96811
+COMEDK,2025,E110,"SSETs S.G. Balekundri Institute of Technology-Shivabasva Nagar, Belagavi",GM,Bran,Branch_1,87331
+COMEDK,2025,E123,"Shri Madhwa Vadiraja Institute of Technology and Management-Bantakal, Udupi",GM,Bran,Branch_1,62552
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",GM,Bran,Branch_1,61900
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",KKR,Bran,Branch_1,84760
+COMEDK,2025,E207,"BGS College of Engineering and Technology- Mahalaxmipuram, Bengaluru",GM,Bran,Branch_1,106934
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_1,82087
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_1,97734
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",KKR,Bran,Branch_1,68738
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Bran,Branch_1,50201
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_1,39302
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_1,76894
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_1,80468
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,GM,Bran,Branch_1,109696
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_1,38302
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_1,93008
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_1,18547
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_1,47177
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_1,72665
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_1,104073
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",GM,Bran,Branch_1,71315
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",KKR,Bran,Branch_1,110659
+COMEDK,2025,E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bran,Branch_1,99933
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",KKR,Bran,Branch_1,94377
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_2,65930
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bran,Branch_2,97600
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bran,Branch_2,95021
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_2,34681
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_2,59439
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bran,Branch_2,76592
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Bran,Branch_2,101565
+COMEDK,2025,E080,"Mangalore Institute of Technology and Engineering- Moodbidri, Mangaluru",GM,Bran,Branch_2,47158
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_2,47299
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",KKR,Bran,Branch_2,48608
+COMEDK,2025,E026,"BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura",GM,Bran,Branch_2,103425
+COMEDK,2025,E065,"KLE Technological University, Belagavi Campus. Formerly known as KLE Dr. M.S. Sheshgiri College of Engineering and",GM,Bran,Branch_2,101670
+COMEDK,2025,E074,"KLS Vishwanathrao Deshpande Institute of Technology- Dandeli Road, Haliyal",GM,Bran,Branch_2,111074
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_2,101827
+COMEDK,2025,E068,K.S. INSTITUTE OF TECHNOLOGY,GM,Bran,Branch_2,102147
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_2,87722
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bran,Branch_2,82721
+COMEDK,2025,E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bran,Branch_2,110946
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bran,Branch_2,63350
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",KKR,Bran,Branch_2,63087
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_2,68078
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",KKR,Bran,Branch_2,97034
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_2,32446
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_2,43337
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Bran,Branch_2,101288
+COMEDK,2025,E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bran,Branch_2,99134
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_2,7904
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_2,19669
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bran,Branch_2,29885
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bran,Branch_2,54977
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",GM,Bran,Branch_2,63591
+COMEDK,2025,E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bran,Branch_2,91125
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,GM,Bran,Branch_2,108621
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,KKR,Bran,Branch_2,93584
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_2,17582
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_2,28677
+COMEDK,2025,E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bran,Branch_2,81250
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bran,Branch_2,82392
+COMEDK,2025,E046,East Point College of Engineering and Technology,GM,Bran,Branch_2,74935
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bran,Branch_2,111800
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,GM,Bran,Branch_2,110904
+COMEDK,2025,E059,"Jawaharlal Nehru New College of Engineering JNNCE- Swalanga Road, Shivamogga",GM,Bran,Branch_2,93811
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bran,Branch_2,101277
+COMEDK,2025,E062,"Jain College of Engineering-T.S Nagar, Belagavi",GM,Bran,Branch_2,89690
+COMEDK,2025,E064,"Jain College of Engineering and Research-Udyambag, Belagavi",GM,Bran,Branch_2,93964
+COMEDK,2025,E065,"KLE Technological University, Belagavi Campus. Formerly known as KLE Dr. M.S. Sheshgiri College of Engineering and",GM,Bran,Branch_2,109669
+COMEDK,2025,E068,K.S. INSTITUTE OF TECHNOLOGY,GM,Bran,Branch_2,91733
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Bran,Branch_2,79437
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",KKR,Bran,Branch_2,80116
+COMEDK,2025,E074,"KLS Vishwanathrao Deshpande Institute of Technology- Dandeli Road, Haliyal",GM,Bran,Branch_2,108632
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_2,4402
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_2,17711
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_2,110498
+COMEDK,2025,E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Bran,Branch_2,37198
+COMEDK,2025,E084,"Nagarjuna College of Engineering And Technology- Devanahalli, Bengaluru",GM,Bran,Branch_2,96890
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_2,1399
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_2,3758
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bran,Branch_2,68259
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bran,Branch_2,80616
+COMEDK,2025,E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bran,Branch_2,89447
+COMEDK,2025,E110,"SSETs S.G. Balekundri Institute of Technology-Shivabasva Nagar, Belagavi",GM,Bran,Branch_2,86914
+COMEDK,2025,E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bran,Branch_2,106707
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",GM,Bran,Branch_2,88474
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",KKR,Bran,Branch_2,85876
+COMEDK,2025,E118,"SDM Institute of Technology, Tulu Minority-Ujjire, Dakshina Kannada",GM,Bran,Branch_2,97963
+COMEDK,2025,E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",GM,Bran,Branch_2,35776
+COMEDK,2025,E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",KKR,Bran,Branch_2,47005
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_2,74734
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bran,Branch_2,81180
+COMEDK,2025,E142,"The National Institute of Engineering South Campus- Mananthavady Road, Mysuru",GM,Bran,Branch_2,30072
+COMEDK,2025,E142,"The National Institute of Engineering South Campus- Mananthavady Road, Mysuru",KKR,Bran,Branch_2,39277
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,GM,Bran,Branch_2,109543
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,KKR,Bran,Branch_2,88965
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",GM,Bran,Branch_2,100240
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",KKR,Bran,Branch_2,76983
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_2,88288
+COMEDK,2025,E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",KKR,Bran,Branch_2,99036
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_2,101410
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",KKR,Bran,Branch_2,97035
+COMEDK,2025,E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bran,Branch_2,55825
+COMEDK,2025,E194,"Jain College of Engineering and Technology-Unkal, Hubballi",GM,Bran,Branch_2,100382
+COMEDK,2025,E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",GM,Bran,Branch_2,22166
+COMEDK,2025,E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",KKR,Bran,Branch_2,45563
+COMEDK,2025,E212,"Seshadripuram Institute of Technology - Kadakola Industrial Area, Mysuru",GM,Bran,Branch_2,105585
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_2,75128
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bran,Branch_2,85319
+COMEDK,2025,E004,Adichunchanagiri Institute of Technology,GM,Bran,Branch_2,104380
+COMEDK,2025,E005,"Akash Institute of Engineering and Technology- Devanahalli, Bengaluru Rural",GM,Bran,Branch_2,30473
+COMEDK,2025,E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bran,Branch_2,94561
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bran,Branch_2,45911
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",KKR,Bran,Branch_2,59005
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_2,24965
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_2,35811
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Bran,Branch_2,106067
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",KKR,Bran,Branch_2,102127
+COMEDK,2025,E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bran,Branch_2,109052
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",GM,Bran,Branch_2,39306
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",KKR,Bran,Branch_2,74304
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,GM,Bran,Branch_2,94407
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,KKR,Bran,Branch_2,79199
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_2,10627
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_2,22788
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bran,Branch_2,109945
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bran,Branch_2,102626
+COMEDK,2025,E046,East Point College of Engineering and Technology,GM,Bran,Branch_2,108885
+COMEDK,2025,E049,"Garden City University-Old Madras Road, Bengaluru",GM,Bran,Branch_2,81367
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bran,Branch_2,93051
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",KKR,Bran,Branch_2,102628
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,GM,Bran,Branch_2,88717
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,KKR,Bran,Branch_2,94706
+COMEDK,2025,E059,"Jawaharlal Nehru New College of Engineering JNNCE- Swalanga Road, Shivamogga",GM,Bran,Branch_2,108163
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bran,Branch_2,107604
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",KKR,Bran,Branch_2,93651
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,GM,Bran,Branch_2,26486
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,KKR,Bran,Branch_2,30991
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_2,3030
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_2,12096
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_2,109852
+COMEDK,2025,E089,"P.E.S.College of Engineering, Mandya",GM,Bran,Branch_2,92865
+COMEDK,2025,E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bran,Branch_2,92310
+COMEDK,2025,E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bran,Branch_2,94373
+COMEDK,2025,E107,"SJB Institute of Technology-Kengeri, Bengaluru",KKR,Bran,Branch_2,104865
+COMEDK,2025,E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Bran,Branch_2,67187
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",GM,Bran,Branch_2,79990
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",KKR,Bran,Branch_2,60443
+COMEDK,2025,E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",GM,Bran,Branch_2,27637
+COMEDK,2025,E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",KKR,Bran,Branch_2,41547
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_2,53971
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bran,Branch_2,72787
+COMEDK,2025,E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bran,Branch_2,85021
+COMEDK,2025,E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bran,Branch_2,97398
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",GM,Bran,Branch_2,81333
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_2,70713
+COMEDK,2025,E197,"M.S. Ramaiah University of Applied Sciences-MSR Nagar, Bengaluru",GM,Bran,Branch_2,38695
+COMEDK,2025,E197,"M.S. Ramaiah University of Applied Sciences-MSR Nagar, Bengaluru",KKR,Bran,Branch_2,110168
+COMEDK,2025,E207,"BGS College of Engineering and Technology- Mahalaxmipuram, Bengaluru",GM,Bran,Branch_2,72898
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",KKR,Bran,Branch_3,86205
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_3,6650
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_3,17793
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bran,Branch_3,22972
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bran,Branch_3,43905
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bran,Branch_3,59929
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bran,Branch_3,76839
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,GM,Bran,Branch_3,26810
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,KKR,Bran,Branch_3,30660
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_3,109740
+COMEDK,2025,E049,"Garden City University-Old Madras Road, Bengaluru",GM,Bran,Branch_3,79136
+COMEDK,2025,E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bran,Branch_3,68213
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bran,Branch_3,70725
+COMEDK,2025,E089,"P.E.S.College of Engineering, Mandya",GM,Bran,Branch_3,71028
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_3,70191
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_3,50220
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_3,82849
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_4,97132
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bran,Branch_4,86498
+COMEDK,2025,E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bran,Branch_4,80971
+COMEDK,2025,E004,Adichunchanagiri Institute of Technology,GM,Bran,Branch_4,106484
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bran,Branch_4,105341
+COMEDK,2025,E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bran,Branch_4,91512
+COMEDK,2025,E012,"Atria Institute of Technology-Hebbal, Bengaluru",KKR,Bran,Branch_4,106136
+COMEDK,2025,E014,"Anuvartik Mirji Bharatesh Institute of Technology- Shindhollicross, Belagavi",GM,Bran,Branch_4,108895
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bran,Branch_4,43182
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",KKR,Bran,Branch_4,57776
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_4,22868
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_4,33260
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Bran,Branch_4,111412
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",KKR,Bran,Branch_4,78883
+COMEDK,2025,E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bran,Branch_4,101501
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_4,6670
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_4,16435
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bran,Branch_4,26119
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bran,Branch_4,41835
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",GM,Bran,Branch_4,34791
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",KKR,Bran,Branch_4,59185
+COMEDK,2025,E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bran,Branch_4,103809
+COMEDK,2025,E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",KKR,Bran,Branch_4,96946
+COMEDK,2025,E037,"City Engineering College-Doddakalasandra, Bengaluru",GM,Bran,Branch_4,90335
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_4,9622
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_4,19685
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bran,Branch_4,84409
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bran,Branch_4,57701
+COMEDK,2025,E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bran,Branch_4,80438
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bran,Branch_4,99801
+COMEDK,2025,E051,"GM Institute of Technology-P B Road, Davangere",GM,Bran,Branch_4,107653
+COMEDK,2025,E056,"H.K.E.Societys P.D.A. College of Engineering-Aiwan E Shahi area, Kalaburgi",GM,Bran,Branch_4,82697
+COMEDK,2025,E059,"Jawaharlal Nehru New College of Engineering JNNCE- Swalanga Road, Shivamogga",GM,Bran,Branch_4,92925
+COMEDK,2025,E068,K.S. INSTITUTE OF TECHNOLOGY,GM,Bran,Branch_4,102605
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_4,3244
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_4,5102
+COMEDK,2025,E083,"Mysuru Royal Institute of Technology-Palahallli, Mandya District",GM,Bran,Branch_4,94076
+COMEDK,2025,E090,PES Institute of Technology and Management,GM,Bran,Branch_4,73263
+COMEDK,2025,E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bran,Branch_4,78511
+COMEDK,2025,E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bran,Branch_4,103454
+COMEDK,2025,E107,"SJB Institute of Technology-Kengeri, Bengaluru",KKR,Bran,Branch_4,110166
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",GM,Bran,Branch_4,75645
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",KKR,Bran,Branch_4,69916
+COMEDK,2025,E121,"Sri Sairam College of Engineering-Anekal, Bengaluru",GM,Bran,Branch_4,95798
+COMEDK,2025,E121,"Sri Sairam College of Engineering-Anekal, Bengaluru",KKR,Bran,Branch_4,110453
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_4,41579
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bran,Branch_4,63803
+COMEDK,2025,E132,"Sri Krishna Institute of Technology-Chikkabanavara, Bengaluru",GM,Bran,Branch_4,77870
+COMEDK,2025,E141,"T. John Institute of Technology-Bannerghatta Road, Bengaluru",GM,Bran,Branch_4,83430
+COMEDK,2025,E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bran,Branch_4,85684
+COMEDK,2025,E156,"Jyothy Institute of Technology-Tathguni, Bengaluru",GM,Bran,Branch_4,80103
+COMEDK,2025,E194,"Jain College of Engineering and Technology-Unkal, Hubballi",GM,Bran,Branch_4,108652
+COMEDK,2025,E207,"BGS College of Engineering and Technology- Mahalaxmipuram, Bengaluru",GM,Bran,Branch_4,93228
+COMEDK,2025,E212,"Seshadripuram Institute of Technology - Kadakola Industrial Area, Mysuru",GM,Bran,Branch_4,104925
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_4,73997
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_4,80186
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_4,107590
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bran,Branch_4,79806
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bran,Branch_4,91589
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_4,110273
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",KKR,Bran,Branch_4,107292
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_4,50967
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Bran,Branch_4,91353
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bran,Branch_4,45384
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bran,Branch_4,57136
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_4,35492
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_4,49381
+COMEDK,2025,E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bran,Branch_4,32466
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Bran,Branch_4,90429
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_4,8320
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_4,30384
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_4,2424
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_4,11783
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bran,Branch_4,82622
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",GM,Bran,Branch_4,107627
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_4,96996
+COMEDK,2025,E142,"The National Institute of Engineering South Campus- Mananthavady Road, Mysuru",GM,Bran,Branch_4,31668
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,GM,Bran,Branch_4,86250
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_4,61682
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_4,97479
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_4,55904
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bran,Branch_4,83862
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bran,Branch_4,61633
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_4,103984
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_4,89065
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_4,21793
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_4,73003
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bran,Branch_4,68406
+COMEDK,2025,E030,"Brindavan College of Engineering-Yelahanka, Bengaluru",GM,Bran,Branch_4,32957
+COMEDK,2025,E037,"City Engineering College-Doddakalasandra, Bengaluru",GM,Bran,Branch_4,87100
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_4,55934
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_4,108484
+COMEDK,2025,E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bran,Branch_4,104180
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bran,Branch_4,49588
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,GM,Bran,Branch_4,93758
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Bran,Branch_4,85421
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_4,25278
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_4,54256
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_4,7032
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_4,39827
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bran,Branch_4,89591
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",GM,Bran,Branch_4,106615
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_4,84225
+COMEDK,2025,E142,"The National Institute of Engineering South Campus- Mananthavady Road, Mysuru",GM,Bran,Branch_4,65094
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,GM,Bran,Branch_4,87033
+COMEDK,2025,E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bran,Branch_4,95156
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_5,97544
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",KKR,Bran,Branch_5,66578
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_5,103486
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bran,Branch_5,102464
+COMEDK,2025,E004,Adichunchanagiri Institute of Technology,GM,Bran,Branch_5,64466
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bran,Branch_5,77210
+COMEDK,2025,E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bran,Branch_5,105457
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_5,18272
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_5,32551
+COMEDK,2025,E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bran,Branch_5,37912
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Bran,Branch_5,94910
+COMEDK,2025,E026,"BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura",GM,Bran,Branch_5,108471
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_5,5610
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_5,17078
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",GM,Bran,Branch_5,29052
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",KKR,Bran,Branch_5,69259
+COMEDK,2025,E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bran,Branch_5,85816
+COMEDK,2025,E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",KKR,Bran,Branch_5,76918
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,GM,Bran,Branch_5,68225
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,KKR,Bran,Branch_5,73575
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_5,8322
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_5,19473
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bran,Branch_5,110247
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bran,Branch_5,79646
+COMEDK,2025,E046,East Point College of Engineering and Technology,GM,Bran,Branch_5,98372
+COMEDK,2025,E053,Gopalan College of Engineering And Management,GM,Bran,Branch_5,50257
+COMEDK,2025,E059,"Jawaharlal Nehru New College of Engineering JNNCE- Swalanga Road, Shivamogga",GM,Bran,Branch_5,104928
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_5,106871
+COMEDK,2025,E089,"P.E.S.College of Engineering, Mandya",GM,Bran,Branch_5,70443
+COMEDK,2025,E090,PES Institute of Technology and Management,GM,Bran,Branch_5,73527
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_5,890
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_5,2557
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bran,Branch_5,48497
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bran,Branch_5,64916
+COMEDK,2025,E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bran,Branch_5,111065
+COMEDK,2025,E116,"Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru",GM,Bran,Branch_5,62074
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_5,37549
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bran,Branch_5,65534
+COMEDK,2025,E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bran,Branch_5,84255
+COMEDK,2025,E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bran,Branch_5,87855
+COMEDK,2025,E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bran,Branch_5,53533
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_5,70513
+COMEDK,2025,E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bran,Branch_5,91982
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_5,99531
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",KKR,Bran,Branch_5,63261
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_5,81718
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_5,59325
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bran,Branch_5,68371
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_5,9737
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_5,33237
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bran,Branch_5,50204
+COMEDK,2025,E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Bran,Branch_5,55193
+COMEDK,2025,E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bran,Branch_6,90119
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_6,13510
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_6,25650
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_6,5890
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_6,24703
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_6,81226
+COMEDK,2025,E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bran,Branch_6,79385
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_6,109781
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bran,Branch_6,95420
+COMEDK,2025,E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bran,Branch_6,81816
+COMEDK,2025,E004,Adichunchanagiri Institute of Technology,GM,Bran,Branch_6,96642
+COMEDK,2025,E005,"Akash Institute of Engineering and Technology- Devanahalli, Bengaluru Rural",GM,Bran,Branch_6,64460
+COMEDK,2025,E006,"Alvas Institute of Engineering and Technology-Moodbidri, Mangaluru",GM,Bran,Branch_6,107287
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bran,Branch_6,106002
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",KKR,Bran,Branch_6,108388
+COMEDK,2025,E009,"Angadi Institute of Technology and Management-Savagaon Road, Belagavi",GM,Bran,Branch_6,76135
+COMEDK,2025,E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bran,Branch_6,99556
+COMEDK,2025,E012,"Atria Institute of Technology-Hebbal, Bengaluru",KKR,Bran,Branch_6,89608
+COMEDK,2025,E014,"Anuvartik Mirji Bharatesh Institute of Technology- Shindhollicross, Belagavi",GM,Bran,Branch_6,97950
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bran,Branch_6,36964
+COMEDK,2025,E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",KKR,Bran,Branch_6,52860
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_6,41897
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",KKR,Bran,Branch_6,41231
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_6,16385
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_6,28602
+COMEDK,2025,E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bran,Branch_6,53793
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Bran,Branch_6,111716
+COMEDK,2025,E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",KKR,Bran,Branch_6,109579
+COMEDK,2025,E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bran,Branch_6,103197
+COMEDK,2025,E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",KKR,Bran,Branch_6,83003
+COMEDK,2025,E026,"BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura",GM,Bran,Branch_6,105699
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_6,5312
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_6,14570
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bran,Branch_6,19940
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bran,Branch_6,40297
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",GM,Bran,Branch_6,26223
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",KKR,Bran,Branch_6,45058
+COMEDK,2025,E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bran,Branch_6,110484
+COMEDK,2025,E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",KKR,Bran,Branch_6,106519
+COMEDK,2025,E035,"Channabasaveshwara Institute of Technology- Gubbi, Tumakuru",GM,Bran,Branch_6,77710
+COMEDK,2025,E037,"City Engineering College-Doddakalasandra, Bengaluru",GM,Bran,Branch_6,99239
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,GM,Bran,Branch_6,58956
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,KKR,Bran,Branch_6,65823
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_6,7819
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_6,18974
+COMEDK,2025,E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bran,Branch_6,78693
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bran,Branch_6,82800
+COMEDK,2025,E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bran,Branch_6,70948
+COMEDK,2025,E045,Dr H N National College of Engineering,GM,Bran,Branch_6,77721
+COMEDK,2025,E046,East Point College of Engineering and Technology,GM,Bran,Branch_6,87819
+COMEDK,2025,E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bran,Branch_6,88757
+COMEDK,2025,E049,"Garden City University-Old Madras Road, Bengaluru",GM,Bran,Branch_6,71823
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bran,Branch_6,110697
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",KKR,Bran,Branch_6,107333
+COMEDK,2025,E051,"GM Institute of Technology-P B Road, Davangere",GM,Bran,Branch_6,106190
+COMEDK,2025,E053,Gopalan College of Engineering And Management,GM,Bran,Branch_6,50971
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,GM,Bran,Branch_6,54607
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,KKR,Bran,Branch_6,92793
+COMEDK,2025,E056,"H.K.E.Societys P.D.A. College of Engineering-Aiwan E Shahi area, Kalaburgi",GM,Bran,Branch_6,106601
+COMEDK,2025,E056,"H.K.E.Societys P.D.A. College of Engineering-Aiwan E Shahi area, Kalaburgi",KKR,Bran,Branch_6,67538
+COMEDK,2025,E058,Sri Jayachamarajendra College of Engineering constituent college of JSS Science and Technology University-,GM,Bran,Branch_6,7039
+COMEDK,2025,E058,Sri Jayachamarajendra College of Engineering constituent college of JSS Science and Technology University-,KKR,Bran,Branch_6,13042
+COMEDK,2025,E059,"Jawaharlal Nehru New College of Engineering JNNCE- Swalanga Road, Shivamogga",GM,Bran,Branch_6,101133
+COMEDK,2025,E059,"Jawaharlal Nehru New College of Engineering JNNCE- Swalanga Road, Shivamogga",KKR,Bran,Branch_6,93683
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bran,Branch_6,61454
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",KKR,Bran,Branch_6,88206
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,GM,Bran,Branch_6,15742
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,KKR,Bran,Branch_6,22916
+COMEDK,2025,E062,"Jain College of Engineering-T.S Nagar, Belagavi",GM,Bran,Branch_6,99303
+COMEDK,2025,E064,"Jain College of Engineering and Research-Udyambag, Belagavi",GM,Bran,Branch_6,110996
+COMEDK,2025,E065,"KLE Technological University, Belagavi Campus. Formerly known as KLE Dr. M.S. Sheshgiri College of Engineering and",GM,Bran,Branch_6,98364
+COMEDK,2025,E066,"KLE College of Engineering and Technology-Chikodi Dist., Belagavi",GM,Bran,Branch_6,108707
+COMEDK,2025,E067,"K.S School of Engineering And Management-Off Kanakapura Road, Bengaluru",GM,Bran,Branch_6,106267
+COMEDK,2025,E068,K.S. INSTITUTE OF TECHNOLOGY,GM,Bran,Branch_6,87857
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Bran,Branch_6,65197
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",KKR,Bran,Branch_6,85330
+COMEDK,2025,E074,"KLS Vishwanathrao Deshpande Institute of Technology- Dandeli Road, Haliyal",GM,Bran,Branch_6,110111
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_6,1667
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_6,6671
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_6,111099
+COMEDK,2025,E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Bran,Branch_6,111070
+COMEDK,2025,E080,"Mangalore Institute of Technology and Engineering- Moodbidri, Mangaluru",GM,Bran,Branch_6,109490
+COMEDK,2025,E082,"Maharaja Institute of Technology-Thandavapura, Mysuru",GM,Bran,Branch_6,98578
+COMEDK,2025,E084,"Nagarjuna College of Engineering And Technology- Devanahalli, Bengaluru",GM,Bran,Branch_6,110315
+COMEDK,2025,E085,"The National Institute of Engineering North Campus- Koorgalli, Mysuru",GM,Bran,Branch_6,24347
+COMEDK,2025,E085,"The National Institute of Engineering North Campus- Koorgalli, Mysuru",KKR,Bran,Branch_6,36455
+COMEDK,2025,E088,"Navodaya Institute of Technology-Bijangera, Raichur",GM,Bran,Branch_6,76817
+COMEDK,2025,E089,"P.E.S.College of Engineering, Mandya",GM,Bran,Branch_6,76458
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_6,692
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_6,1133
+COMEDK,2025,E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bran,Branch_6,86038
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bran,Branch_6,42678
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bran,Branch_6,52821
+COMEDK,2025,E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bran,Branch_6,96234
+COMEDK,2025,E107,"SJB Institute of Technology-Kengeri, Bengaluru",KKR,Bran,Branch_6,85620
+COMEDK,2025,E108,"SJC Institute of Technology-BB Road, Chikkaballapur",GM,Bran,Branch_6,109667
+COMEDK,2025,E110,"SSETs S.G. Balekundri Institute of Technology-Shivabasva Nagar, Belagavi",GM,Bran,Branch_6,100695
+COMEDK,2025,E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Bran,Branch_6,104962
+COMEDK,2025,E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bran,Branch_6,107167
+COMEDK,2025,E116,"Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru",GM,Bran,Branch_6,103645
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",GM,Bran,Branch_6,68774
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",KKR,Bran,Branch_6,56441
+COMEDK,2025,E121,"Sri Sairam College of Engineering-Anekal, Bengaluru",GM,Bran,Branch_6,105651
+COMEDK,2025,E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",GM,Bran,Branch_6,19599
+COMEDK,2025,E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",KKR,Bran,Branch_6,32955
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_6,36563
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bran,Branch_6,59585
+COMEDK,2025,E128,"Smt. Kamala and Sri Venkappa M. Agadi College of Engineering and Technology-Laxmeswar, Gadag",GM,Bran,Branch_6,91192
+COMEDK,2025,E132,"Sri Krishna Institute of Technology-Chikkabanavara, Bengaluru",GM,Bran,Branch_6,85160
+COMEDK,2025,E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bran,Branch_6,109058
+COMEDK,2025,E141,"T. John Institute of Technology-Bannerghatta Road, Bengaluru",GM,Bran,Branch_6,106939
+COMEDK,2025,E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bran,Branch_6,105410
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,GM,Bran,Branch_6,106778
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,KKR,Bran,Branch_6,106835
+COMEDK,2025,E152,"ATME College of Engineering-Bannur Road, Mysuru",GM,Bran,Branch_6,105603
+COMEDK,2025,E156,"Jyothy Institute of Technology-Tathguni, Bengaluru",GM,Bran,Branch_6,109278
+COMEDK,2025,E161,"Cambridge Institute of Technology North Campus- Kundana, Bengaluru",GM,Bran,Branch_6,77553
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_6,103869
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",KKR,Bran,Branch_6,58887
+COMEDK,2025,E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bran,Branch_6,32484
+COMEDK,2025,E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",KKR,Bran,Branch_6,58837
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_6,105662
+COMEDK,2025,E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bran,Branch_6,108898
+COMEDK,2025,E187,"CMR University-Bagalur-Chagalatti, Bengaluru",KKR,Bran,Branch_6,100067
+COMEDK,2025,E194,"Jain College of Engineering and Technology-Unkal, Hubballi",GM,Bran,Branch_6,91832
+COMEDK,2025,E194,"Jain College of Engineering and Technology-Unkal, Hubballi",KKR,Bran,Branch_6,108783
+COMEDK,2025,E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",GM,Bran,Branch_6,21189
+COMEDK,2025,E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",KKR,Bran,Branch_6,31537
+COMEDK,2025,E203,"Amruta Institute of Engineering and Management Science- Bidadi,",GM,Bran,Branch_6,89035
+COMEDK,2025,E205,"Vijaya Vittala Institution of Technology-Kothanur, Bengaluru",GM,Bran,Branch_6,89038
+COMEDK,2025,E207,"BGS College of Engineering and Technology- Mahalaxmipuram, Bengaluru",GM,Bran,Branch_6,97348
+COMEDK,2025,E207,"BGS College of Engineering and Technology- Mahalaxmipuram, Bengaluru",KKR,Bran,Branch_6,83726
+COMEDK,2025,E211,"East West College of Engineering-Yelahanka, Bengaluru",GM,Bran,Branch_6,40862
+COMEDK,2025,E212,"Seshadripuram Institute of Technology - Kadakola Industrial Area, Mysuru",GM,Bran,Branch_6,102501
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_6,49542
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_6,61358
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_6,30129
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_6,44678
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_6,6753
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_6,23863
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_6,1621
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_6,4923
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_6,54587
+COMEDK,2025,E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bran,Branch_6,68534
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_6,30233
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_6,58765
+COMEDK,2025,E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bran,Branch_6,65090
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_6,12335
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_6,32330
+COMEDK,2025,E089,"P.E.S.College of Engineering, Mandya",GM,Bran,Branch_6,49355
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_6,73039
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_7,63821
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_7,11125
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_7,31502
+COMEDK,2025,E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bran,Branch_7,107629
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_7,79698
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_7,86039
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_7,24466
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_7,33647
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_7,6143
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_7,17185
+COMEDK,2025,E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bran,Branch_7,93618
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,GM,Bran,Branch_7,84560
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,KKR,Bran,Branch_7,74251
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_7,10204
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_7,25934
+COMEDK,2025,E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bran,Branch_7,78827
+COMEDK,2025,E046,East Point College of Engineering and Technology,GM,Bran,Branch_7,69574
+COMEDK,2025,E068,K.S. INSTITUTE OF TECHNOLOGY,GM,Bran,Branch_7,78493
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_7,98560
+COMEDK,2025,E121,"Sri Sairam College of Engineering-Anekal, Bengaluru",GM,Bran,Branch_7,99579
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_7,43786
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bran,Branch_7,89775
+COMEDK,2025,E141,"T. John Institute of Technology-Bannerghatta Road, Bengaluru",GM,Bran,Branch_7,85908
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",GM,Bran,Branch_7,85739
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",KKR,Bran,Branch_7,100736
+COMEDK,2025,E049,"Garden City University-Old Madras Road, Bengaluru",GM,Bran,Branch_7,73658
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Bran,Branch_8,96497
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_8,44244
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_8,106796
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_8,53019
+COMEDK,2025,E065,"KLE Technological University, Belagavi Campus. Formerly known as KLE Dr. M.S. Sheshgiri College of Engineering and",GM,Bran,Branch_8,67577
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_8,40176
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_8,13038
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_8,76609
+COMEDK,2025,E117,"SDM College of Engineering and Technology, Tulu Minority- Kalaghatagi, Dharwad",GM,Bran,Branch_8,84163
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bran,Branch_8,62003
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_8,111127
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_8,99127
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bran,Branch_8,47626
+COMEDK,2025,E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bran,Branch_8,68362
+COMEDK,2025,E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bran,Branch_8,98771
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_8,65128
+COMEDK,2025,E059,"Jawaharlal Nehru New College of Engineering JNNCE- Swalanga Road, Shivamogga",GM,Bran,Branch_8,103564
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,GM,Bran,Branch_8,81346
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Bran,Branch_8,68426
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_8,45412
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_8,83820
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_8,105541
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_8,20599
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_8,77467
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_8,110094
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,GM,Bran,Branch_8,110523
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",GM,Bran,Branch_8,52607
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_8,89912
+COMEDK,2025,E197,"M.S. Ramaiah University of Applied Sciences-MSR Nagar, Bengaluru",GM,Bran,Branch_8,72815
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_8,55444
+COMEDK,2025,E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bran,Branch_8,102189
+COMEDK,2025,E101,"Rajiv Gandhi Institute of Technology-R T Nagar Post, Bengaluru",GM,Bran,Branch_9,66371
+COMEDK,2025,E005,"Akash Institute of Engineering and Technology- Devanahalli, Bengaluru Rural",GM,Bran,Branch_9,84459
+COMEDK,2025,E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bran,Branch_9,110976
+COMEDK,2025,E011,"APS College of Engineering-Kanakapura Road, Bengaluru",GM,Bran,Branch_9,56624
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",GM,Bran,Branch_9,26892
+COMEDK,2025,E032,"CMR Institute of Technology-Brookefield, Bengaluru",KKR,Bran,Branch_9,50674
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,GM,Bran,Branch_9,54107
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,KKR,Bran,Branch_9,69830
+COMEDK,2025,E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bran,Branch_9,86990
+COMEDK,2025,E046,East Point College of Engineering and Technology,GM,Bran,Branch_9,99416
+COMEDK,2025,E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bran,Branch_9,64384
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bran,Branch_9,94669
+COMEDK,2025,E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",KKR,Bran,Branch_9,80161
+COMEDK,2025,E053,Gopalan College of Engineering And Management,GM,Bran,Branch_9,110929
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,GM,Bran,Branch_9,56718
+COMEDK,2025,E055,GSSS Institute of Engineering and Technology for Women,KKR,Bran,Branch_9,85204
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bran,Branch_9,68273
+COMEDK,2025,E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",KKR,Bran,Branch_9,90991
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,GM,Bran,Branch_9,16101
+COMEDK,2025,E061,JSS Science and Technology University-Mysuru,KKR,Bran,Branch_9,24850
+COMEDK,2025,E062,"Jain College of Engineering-T.S Nagar, Belagavi",GM,Bran,Branch_9,96545
+COMEDK,2025,E064,"Jain College of Engineering and Research-Udyambag, Belagavi",GM,Bran,Branch_9,76775
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Bran,Branch_9,43970
+COMEDK,2025,E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",KKR,Bran,Branch_9,100293
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_9,2098
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_9,11499
+COMEDK,2025,E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Bran,Branch_9,98718
+COMEDK,2025,E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Bran,Branch_9,88213
+COMEDK,2025,E082,"Maharaja Institute of Technology-Thandavapura, Mysuru",GM,Bran,Branch_9,86203
+COMEDK,2025,E084,"Nagarjuna College of Engineering And Technology- Devanahalli, Bengaluru",GM,Bran,Branch_9,110636
+COMEDK,2025,E085,"The National Institute of Engineering North Campus- Koorgalli, Mysuru",GM,Bran,Branch_9,25039
+COMEDK,2025,E085,"The National Institute of Engineering North Campus- Koorgalli, Mysuru",KKR,Bran,Branch_9,29233
+COMEDK,2025,E089,"P.E.S.College of Engineering, Mandya",GM,Bran,Branch_9,33228
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_9,975
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_9,2388
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bran,Branch_9,46906
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bran,Branch_9,58192
+COMEDK,2025,E108,"SJC Institute of Technology-BB Road, Chikkaballapur",GM,Bran,Branch_9,91872
+COMEDK,2025,E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Bran,Branch_9,83348
+COMEDK,2025,E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bran,Branch_9,110575
+COMEDK,2025,E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",GM,Bran,Branch_9,20772
+COMEDK,2025,E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",KKR,Bran,Branch_9,27910
+COMEDK,2025,E128,"Smt. Kamala and Sri Venkappa M. Agadi College of Engineering and Technology-Laxmeswar, Gadag",GM,Bran,Branch_9,85586
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,GM,Bran,Branch_9,80591
+COMEDK,2025,E147,Vidyavardhaka College of Engineering,KKR,Bran,Branch_9,95881
+COMEDK,2025,E152,"ATME College of Engineering-Bannur Road, Mysuru",GM,Bran,Branch_9,86632
+COMEDK,2025,E161,"Cambridge Institute of Technology North Campus- Kundana, Bengaluru",GM,Bran,Branch_9,78588
+COMEDK,2025,E164,"REVA University-Yelahanka, Bengaluru",GM,Bran,Branch_9,42895
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_9,69049
+COMEDK,2025,E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bran,Branch_9,69153
+COMEDK,2025,E187,"CMR University-Bagalur-Chagalatti, Bengaluru",KKR,Bran,Branch_9,92917
+COMEDK,2025,E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",GM,Bran,Branch_9,24673
+COMEDK,2025,E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",KKR,Bran,Branch_9,33761
+COMEDK,2025,E005,"Akash Institute of Engineering and Technology- Devanahalli, Bengaluru Rural",GM,Bran,Branch_9,104762
+COMEDK,2025,E039,Dayananda Sagar Academy of Technology and Management,GM,Bran,Branch_9,70639
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bran,Branch_9,9105
+COMEDK,2025,E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bran,Branch_9,21259
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_9,2845
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bran,Branch_9,16304
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_9,1091
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_9,3368
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bran,Branch_9,50778
+COMEDK,2025,E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bran,Branch_9,69057
+COMEDK,2025,E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bran,Branch_9,101019
+COMEDK,2025,E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bran,Branch_9,96196
+COMEDK,2025,E165,"Alliance University-Anekal, Bengaluru",GM,Bran,Branch_9,104802
+COMEDK,2025,E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bran,Branch_9,56380
+COMEDK,2025,E173,"Presidency University-Yelahanka, Bengaluru",GM,Bran,Branch_9,69316
+COMEDK,2025,E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bran,Branch_9,46626
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bran,Branch_9,17533
+COMEDK,2025,E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bran,Branch_9,49268
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bran,Branch_9,41382
+COMEDK,2025,E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bran,Branch_9,70401
+COMEDK,2025,E036,"Chanakya University-Devanahalli, Bengaluru Rural",GM,Bran,Branch_9,95562
+COMEDK,2025,E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bran,Branch_9,55985
+COMEDK,2025,E016,"KLE Technological University Formerly known as BVBCET- Vidyanagar, Hubballi",GM,Bran,Branch_10,73602
